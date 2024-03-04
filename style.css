@@ -8,6 +8,7 @@ table {
     border-top-right-radius: 25px;
     border: 4px;
     border-style: solid;
+    width: 50%;
 }
 span {
     background-color: #11b4fe;
@@ -15,4 +16,12 @@ span {
 tfoot {
     font-weight: bold;
     background-color: #11b4fe;
+}
+.border {
+    border-bottom-color: black;
+    border-bottom-width: medium;
+    border-bottom-style: solid;
+    border-left-color: black;
+    border-left-width: thin;
+    border-left-style: solid;
 }
